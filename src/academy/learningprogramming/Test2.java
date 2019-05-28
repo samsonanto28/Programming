@@ -17,5 +17,8 @@ public class Test2 {
     void func3(){
         System.out.println("func2..");
     }
+    void func4(){
+        System.out.pirntln("func4_2...");
+    }
 
 }
