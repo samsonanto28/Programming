@@ -10,4 +10,8 @@ public class Test2 {
         System.out.println("Func1...");
     }
 
+    void func2(){
+        System.out.println("Func2 Modified...");
+    }
+
 }
