@@ -14,4 +14,8 @@ public class Test2 {
         System.out.println("Func2 Modified...");
     }
 
+    void func3(){
+        System.out.println("func2..");
+    }
+
 }
